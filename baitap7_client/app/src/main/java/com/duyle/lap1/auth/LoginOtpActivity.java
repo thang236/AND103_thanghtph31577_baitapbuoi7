@@ -11,7 +11,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.duyle.lap1.ui.add.HomeActivity;
 import com.duyle.lap1.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -118,8 +117,8 @@ public class LoginOtpActivity extends AppCompatActivity {
                         if (task.isSuccessful()) {
                             // Sign in success, update UI with the signed-in user's information
                             Toast.makeText(LoginOtpActivity.this, "Đăng Nhập Thành Công!", Toast.LENGTH_SHORT).show();
-                            Intent intent = new Intent(LoginOtpActivity.this, HomeActivity.class);
-                            startActivity(intent);
+//                            Intent intent = new Intent(LoginOtpActivity.this, HomeActivity.class);
+//                            startActivity(intent);
 
                             FirebaseUser user = task.getResult().getUser();
                             // Update UI

@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.duyle.lap1" />
-                  <option name="mobileSdkAppId" value="1:315760614292:android:d0b93f3ead9340b0654d81" />
-                  <option name="projectId" value="and103---md18309" />
-                  <option name="projectNumber" value="315760614292" />
+                  <option name="mobileSdkAppId" value="1:780018298017:android:96da8c9328d87357e094e0" />
+                  <option name="projectId" value="and103-lab1-f278e" />
+                  <option name="projectNumber" value="780018298017" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

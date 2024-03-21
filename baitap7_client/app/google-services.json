@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "315760614292",
-    "project_id": "and103---md18309",
-    "storage_bucket": "and103---md18309.appspot.com"
+    "project_number": "780018298017",
+    "project_id": "and103-lab1-f278e",
+    "storage_bucket": "and103-lab1-f278e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:315760614292:android:b473f9a0ca4fe82f654d81",
-        "android_client_info": {
-          "package_name": "com.duyle.lab1"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCOJ0shk5f1AnNIAT_aP-7r3ZbXu0x2U8Y"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:315760614292:android:d0b93f3ead9340b0654d81",
+        "mobilesdk_app_id": "1:780018298017:android:96da8c9328d87357e094e0",
         "android_client_info": {
           "package_name": "com.duyle.lap1"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCOJ0shk5f1AnNIAT_aP-7r3ZbXu0x2U8Y"
+          "current_key": "AIzaSyCiguQ7hLDmV7uRExkATuv7CMiczutXRZs"
         }
       ],
       "services": {
@@ -45,15 +26,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:315760614292:android:818ed66e0ad3b274654d81",
+        "mobilesdk_app_id": "1:780018298017:android:1807ef13926a6136e094e0",
         "android_client_info": {
-          "package_name": "com.example.firestorecrud"
+          "package_name": "com.example.easychat"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCOJ0shk5f1AnNIAT_aP-7r3ZbXu0x2U8Y"
+          "current_key": "AIzaSyCiguQ7hLDmV7uRExkATuv7CMiczutXRZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780018298017:android:520dc6bdd889e24de094e0",
+        "android_client_info": {
+          "package_name": "com.example.thanghtph31577_and103_lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiguQ7hLDmV7uRExkATuv7CMiczutXRZs"
         }
       ],
       "services": {

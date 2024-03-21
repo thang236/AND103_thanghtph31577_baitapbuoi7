@@ -9,7 +9,7 @@ public class RetrofitBuilder {
     public static Retrofit getRetrofitInstance(){
         if(retrofit == null){
             retrofit = new Retrofit.Builder()
-                    .baseUrl("http://192.168.1.4:3000/api/")
+                    .baseUrl("http://192.168.2.17:3000/api/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
 

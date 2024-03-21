@@ -21,11 +21,9 @@
             android:name=".ui.bt7.AddCar"
             android:exported="false" />
         <activity
-            android:name=".ui.bt7.ListXeActivity"
+            android:name=".auth.ChoiceLoginActivity"
             android:exported="false" />
-        <activity
-            android:name=".ui.add.AddCityActivity"
-            android:exported="false" />
+
         <activity
             android:name=".auth.ForgotPassActivity"
             android:exported="false" />
@@ -33,7 +31,7 @@
             android:name=".auth.LoginOtpActivity"
             android:exported="false" />
         <activity
-            android:name=".auth.ChoiceLoginActivity"
+            android:name=".ui.bt7.ListXeActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
