@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><!-- dialog_update_car.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cập nhật thông tin xe"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên xe"
+        android:textColor="@color/black"
+        android:layout_marginHorizontal="10dp"
+        android:textSize="14sp" />
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/custtomedit"
+        android:hint="Tên xe"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giá tiền"
+        android:textColor="@color/black"
+        android:layout_marginHorizontal="10dp"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/et_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/custtomedit"
+        android:hint="Giá tiền"
+        android:inputType="number"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loại xe"
+        android:textColor="@color/black"
+        android:layout_marginHorizontal="10dp"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/et_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/custtomedit"
+        android:hint="Loại xe"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đường dẫn ảnh"
+        android:textColor="@color/black"
+        android:layout_marginHorizontal="10dp"
+        android:textSize="14sp" />
+    <EditText
+        android:id="@+id/et_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/custtomedit"
+        android:hint="Đường dẫn ảnh"
+        android:padding="10dp" />
+
+</LinearLayout>
